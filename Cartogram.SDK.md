@@ -1,7 +1,7 @@
 # Cartogram SDK Documentation
 -   [Authorization](#authorization)
--   [Url Structure](#url structure)
--   [API Refernce](#API ref)
+-   [Url Structure](#url-structure)
+-   [API Refernce](#API-ref)
 
 
 ## Authorization
