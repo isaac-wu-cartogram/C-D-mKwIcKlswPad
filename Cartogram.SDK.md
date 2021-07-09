@@ -16,7 +16,11 @@ If you have an incorrect ApplicationId or Authorization key, you will see the fo
 &nbsp;&nbsp;&nbsp;&nbsp;**_ApplicationId_** error: {"error":"Error:token is not valid"}
 
 ## Url Structure
-
+All APIs have a common endpoint: /api/v1/{```controller```}/{```method```}
+```ruby
+controller
+```
+-Name of controller to use.
 ## Base API
 
 ### Upload (POST)
