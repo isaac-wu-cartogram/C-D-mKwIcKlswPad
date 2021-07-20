@@ -3,6 +3,8 @@
 -   [Url Structure](#url-structure)
 -   [Base API](#base-api)
 	-   [Upload (POST)](#post-api/v1/base/upload)
+-	[Inventories API](#inventories-api)
+-	[Users API](#users-api)
 
 ## Authorization
 All Cartogram APIs use authorization keys as a security mechanism. When using an authorization key, add them to *headers* before sending the request to the server. The names of the keys are:
